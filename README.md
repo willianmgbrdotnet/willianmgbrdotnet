@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willianmgbrdotnet
 - 👀 I’m interested in c# .net trainee/junior jobs and meet people to network.
-- 🌱 I’m currently learning c#.
+- 🌱 I’m currently learning c#, .Net REST API, Data structure and algorithms.
 - 💞️ I’m looking to collaborate on C# .net projects
 - 📫 How to reach me https://www.linkedin.com/in/williandotnetalves/
 
