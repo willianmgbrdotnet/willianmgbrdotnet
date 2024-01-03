@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willianmgbrdotnet
 - 👀 I’m interested in trainee/junior jobs and meet people to network.
-- 🌱 I’m currently learning Backend c# .Net | REST API | Orientação a Objetos | JAVA | Html javaScript Nodejs | SQL | Data structure and algorithms.
+- 🌱 I’m currently learning Backend c# .Net | REST API | Orientação a Objetos | Html javaScript | SQL | Data structure and algorithms.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://www.linkedin.com/in/williandotnetalves/
 
