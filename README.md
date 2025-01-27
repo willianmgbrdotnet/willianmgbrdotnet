@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @willianmgbrdotnet
-- 👀 I’m interested in trainee/junior jobs and meet people to network.
-- 🌱 I’m currently learning Backend c# .Net | REST API | Orientação a Objetos | Html javaScript | SQL | Data structure and algorithms.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me https://www.linkedin.com/in/williandotnetalves/
-
-<!---
-willianmgbrdotnet/willianmgbrdotnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BEGIN TRAN<br/> C# .Net Developer _Backend<br/> *Estou disponível para ASSISTENTE em Desenvolvimento de Software(PROGRAMAÇÃO).<br/> *Concluí Superior em Gestão Financeira em Dezembro/2022.<br/> *Comecei Análise e Desenvolvimento de Sistemas em 2023.<br/> UPDATE WHERE<br/> Concluí Tecnólogo em Análise e Desenvolvimento de Sistemas em Dezembro/2024<br/> COMMIT TRAN<br/> ('Foguete não dá ROLLBACK')😎
